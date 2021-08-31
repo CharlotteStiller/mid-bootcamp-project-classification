@@ -1,5 +1,6 @@
 # mid-bootcamp-project-classification
 
+In this bootcamp we use logistic regression to understand the demographics and other characteristics of a bank customers' that accept a credit card offer and that do not accept a credit card.
 
 ![Hier sollte ein Bild zu sehen sein](https://st2.depositphotos.com/2704315/7774/v/600/depositphotos_77740328-stock-illustration-hand-holding-credit-card-vector.jpg)
 
@@ -26,3 +27,37 @@ Meaning of the columns: [Link](https://github.com/Ironhack-Data-0621-Remote/mid-
 
 
 
+### Workflow of your project?
+
+
+1. **Apply agile Project Management to deliver results**
+    - Delivery: Tab Projects 
+    - Use a Kanban Board to self-manage my project
+    - Create cards to manage my progress during the project 
+
+2. **Get the data to SQL Database**
+    - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
+    - Connect the SQL database to Python and pull the datafram in Python
+    - Write queries to extract the information I need
+
+  
+3.  **Perform Exploratory Data Analysis** 
+    - Explore the data 
+    - Fit the model
+    - Check accuracy of the model (exploring *Variance vs. Bias* tradeoff)
+    - Iterate on the model to get more optimized results.
+  
+4. **Present a professional project** 
+    - Produce documentation to make the project accessible
+    - Build engaging presentations
+    - Include storytelling to your presentation!
+
+### Findings / Results 
+
+1. **Which model works for the dataset**
+    - KNN works for the dataset, but 
+    - Logistic 
+
+### Project | Moduls I used 
+
+### Dataset(s) 
