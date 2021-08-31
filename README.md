@@ -1,5 +1,10 @@
 # mid-bootcamp-project-classification
 
+
+![Hier sollte ein Bild zu sehen sein](https://st2.depositphotos.com/2704315/7774/v/600/depositphotos_77740328-stock-illustration-hand-holding-credit-card-vector.jpg)
+
+
+
 |               Column |                                                                          Information  | Type     |
 |---------------------:|--------------------------------------------------------------------------------------:|---------:|
 |      customer_number |                                        A sequential number assigned to the customers. |    int64 |
