@@ -92,3 +92,12 @@ Meaning of the columns: [Link](https://github.com/Ironhack-Data-0621-Remote/mid-
 ### Project | Moduls I used 
 
 ### Dataset(s) 
+
+
+### For code
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
