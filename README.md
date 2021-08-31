@@ -34,7 +34,7 @@
 
 
 ## About the project
-In this project we use logistic regression to understand the demographics and other characteristics of a bank customers' that accept a credit card offer and that do not accept a credit card.
+This project will focus in a classification problem: as a data analyst of a bank I will analyse the characteristics of the bank customer's that accept or reject a credit card offer. 
 
 
 |               Column |                                                                          Information  | Type     |
