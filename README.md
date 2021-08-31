@@ -1,9 +1,40 @@
 # mid-bootcamp-project-classification
 
-In this bootcamp we use logistic regression to understand the demographics and other characteristics of a bank customers' that accept a credit card offer and that do not accept a credit card.
 
 ![Hier sollte ein Bild zu sehen sein](https://st2.depositphotos.com/2704315/7774/v/600/depositphotos_77740328-stock-illustration-hand-holding-credit-card-vector.jpg)
 
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About the project</a>
+      <ul>
+        <li><a href="#built-with">Meaning of the columns</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Workflow</a>
+      <ul>
+        <li><a href="#prerequisites">Project Management</a></li>
+        <li><a href="#installation">MySQL</a></li>
+        <li><a href="#installation">Classification Model - Pyhton</a></li>
+        <li><a href="#installation">Presentation - Tableau</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Dataset</a></li>
+    <li><a href="#roadmap">Moduls</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+
+## About the project
+In this project we use logistic regression to understand the demographics and other characteristics of a bank customers' that accept a credit card offer and that do not accept a credit card.
 
 
 |               Column |                                                                          Information  | Type     |
