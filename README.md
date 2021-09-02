@@ -7,8 +7,6 @@ by Charlotte Stiller
 
 ## About the project
 
-
-1 Executive Summary / Introdution
 Project description
 For the project we have data from a marketing study with 18.000 current bank customers. We want to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card. . 
 
