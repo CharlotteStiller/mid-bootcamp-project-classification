@@ -39,14 +39,16 @@ For the project we have data from a marketing study with 18.000 current bank cus
 
 
 1. **Exploring the data in SQL**
-    - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
+    - Files: Solutions SQL- Classification.ipynb / Questions_SQL - Classification.md /
     - Write queries to extract demographics and other characteristics of its customers
 
   
 2.  **Logistic regression in Python** 
-    - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
-    - Explore the data 
-    - Fit the model
+    - Files: Solutions Python - Classification.ipynb / helper.py / project_details_classification.md
+    - EDA
+    - Data processing, feature engineering
+    - Model evaluation
+    - Overview - model results
 
   
 3. **Analyse and vizualize the data in Tableau** 
