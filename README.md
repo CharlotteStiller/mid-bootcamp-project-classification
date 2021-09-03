@@ -9,10 +9,8 @@ In ordert o to this, I used agile project planning in Github and made use of SQL
 
 ## About the project
 
-Project description
 For the project we have data from a marketing study with 18.000 current bank customers. We want to understand the demographics and other characteristics of its customers that accept a credit card offer and that do not accept a credit card. . 
 
-Objective
 The goal of the binary classification project is to analyse the characteristics of the bank customers and to train a model to predict if a bank customer accept or reject a credit card offer.
 
 ## Dataset 
