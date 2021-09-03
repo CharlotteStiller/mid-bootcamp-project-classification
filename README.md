@@ -75,13 +75,13 @@ analyze certain characteristics / the differences between the people who accepte
 - The explaination of the jump is begründet in dem verhalt, dass nur ein Kunde aus 18.000 dieses Merkmal aufweist und somit der Durchschnitt aus einem Einzelfall gebildet wird. 
 
 ### Libaries 
-from helper_v1 import *
-import pandas as pd
-from scipy.stats 
-import seaborn as sns
-from IPython import display
-import matplotlib
-import numpy as np
-from imblearn
-from sklearn
-import warnings
+- helper_classification 
+- IPython
+- pandas as pd
+- scipy
+- seaborn as sns
+- matplotlib
+- numpy as np
+- imblearn
+- sklearn
+- warnings
