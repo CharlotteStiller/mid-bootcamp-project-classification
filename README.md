@@ -1,11 +1,13 @@
-# Project 02 - Credit Card Classification
+# Classification project
 by Charlotte Stiller
 
-![Hier sollte ein Bild zu sehen sein](https://st2.depositphotos.com/2704315/7774/v/600/depositphotos_77740328-stock-illustration-hand-holding-credit-card-vector.jpg)
 
 The objective of this project was to is to build a model that will provide insight into why some bank customers accept credit card offers, as well as answer additional questions by top management related to the matter.
 
 In ordert o to this, I used agile project planning in Github and made use of SQL, Python and Tableau. 
+
+![Hier sollte ein Bild zu sehen sein](https://st2.depositphotos.com/2704315/7774/v/600/depositphotos_77740328-stock-illustration-hand-holding-credit-card-vector.jpg)
+
 
 ## About the project
 
@@ -45,23 +47,29 @@ For the project we have data from a marketing study with 18.000 current bank cus
     - Write queries to extract demographics and other characteristics of its customers
 
   
-2.  **Perform exploratory data analysis and fit the model in Python** 
+2.  **Logistic regression in Python** 
     - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
     - Explore the data 
     - Fit the model
 
   
-3. **Analyse and vizualize in Tableau** 
+3. **Analyse and vizualize the data in Tableau** 
     - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
 
 
 ### Findings / Results 
+Note: For futher details, please refer to the related files
 
-2. **Which model works for the dataset**
+
+1. **Exploring the data in SQL**
+
+2.  **Logistic regression in Python** 
 - Logistic Regression with changed class weights fits best for this dataset. Highest Yes recall: 0.69.  
 - Next step to evaluate this model: Cut the variables which do not improve the prediction and improve the weight/balance
 - For the next marketing study I would recommend to change the questions which have no relationship to the target variable (Like shown in point 5.2.) and to build bins (For example house hold size 5-9) 
 
+
+3. **Analyse and vizualize the data in Tableau** 
 
 ### Libaries 
 from helper_v1 import *
