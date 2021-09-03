@@ -64,7 +64,7 @@ Note: For futher details, please refer to the related files
 2.  **Logistic regression in Python** 
 - Logistic Regression with changed class weights fits best for this dataset. Highest Yes recall: 0.69.  
 - Next step to evaluate this model: Cut the variables which do not improve the prediction and improve the weight/balance
-- For the next marketing study I would recommend to change the questions which have no relationship to the target variable (Like shown in point 5.2.) and to build bins (For example house hold size 5-9) 
+- For the next marketing study I would recommend to change the questions which have no relationship to the target variable (Like shown in point 5.2.), target people who live in a household of the size 3 or 4, and to build bins (For example house hold size 5-9) 
 
 
 3. **Analyse and vizualize the data in Tableau** 
