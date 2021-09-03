@@ -70,6 +70,9 @@ Note: For futher details, please refer to the related files
 
 
 3. **Analyse and vizualize the data in Tableau** 
+analyze certain characteristics / the differences between the people who accepted the offer vs people who did not accept the offer. Plot average Q1-Q4 balance vs Offer Accepted. Provide the values of averages as labels. Consider a similar analysis for Household Size vs average balances for each quarter. You would observe a huge jump in average balance from Q1 to Q2 for households with size 8. - Try and explain that jump. Hint: Check the number of records we have for such customers. Do you see any anomaly.
+- There is a huge jump in average balance from Q1 to Q2 for households with size 8.
+- The explaination of the jump is begründet in dem verhalt, dass nur ein Kunde aus 18.000 dieses Merkmal aufweist und somit der Durchschnitt aus einem Einzelfall gebildet wird. 
 
 ### Libaries 
 from helper_v1 import *
