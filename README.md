@@ -39,12 +39,12 @@ For the project we have data from a marketing study with 18.000 current bank cus
 
 
 1. **Exploring the data in SQL**
-    - Files: Solutions SQL- Classification.ipynb / Questions_SQL - Classification.md /
+    - Files: Solutions_SQL- Classification.ipynb / Questions_SQL - Classification.md /
     - Write queries to extract demographics and other characteristics of its customers
 
   
 2.  **Logistic regression in Python** 
-    - Files: Solutions Python - Classification.ipynb / helper.py / project_details_classification.md
+    - Files: Solutions_Python - Classification.ipynb / helper.py / Questions_Python - Classification.md
     - EDA
     - Data processing, feature engineering
     - Model evaluation
@@ -52,7 +52,7 @@ For the project we have data from a marketing study with 18.000 current bank cus
 
   
 3. **Analyse and vizualize the data in Tableau** 
-    - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
+    - Files: Solutions_Tableau- Classification.ipynb / Tableau.twb / Questions_Tableau- Classification.md
 
 
 ## Findings / Results 
@@ -60,7 +60,7 @@ Note: For futher details, please refer to the related files
 
 
 1. **Exploring the data in SQL**
-- Propertier: Credit rating medium or high, Credit cards held 2 or less, Owns their own home, Household size 3 or more
+- Properties: Credit rating medium or high, Credit cards held 2 or less, Owns their own home, Household size 3 or more
 - There are only 167 customers with the following properties who accepted the offer. So I would give the hint, that this customers are under 1% of all customers and that is worth addressing this customer group.
 
 2.  **Logistic regression in Python** 
