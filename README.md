@@ -65,6 +65,9 @@ Meaning of the columns: [Link](https://github.com/Ironhack-Data-0621-Remote/mid-
 1. **Which model works for the dataset**
     - KNN works for the dataset, but 
     - Logistic 
+2. **Recommandation for next marketing study**
+    - Change the questions which have no relationship to the target variable "offer accepted" (5.2.) 
+    - Build more bins (house hold size 5-9) for the questions
 
 ### Project | Moduls I used 
 
