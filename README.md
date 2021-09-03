@@ -60,6 +60,8 @@ Note: For futher details, please refer to the related files
 
 
 1. **Exploring the data in SQL**
+- Propertier: Credit rating medium or high, Credit cards held 2 or less, Owns their own home, Household size 3 or more
+- There are only 167 customers with the following properties who accepted the offer. So I would give the hint, that this customers are under 1% of all customers and that is worth addressing this customer group.
 
 2.  **Logistic regression in Python** 
 - Logistic Regression with changed class weights fits best for this dataset. Highest Yes recall: 0.69.  
