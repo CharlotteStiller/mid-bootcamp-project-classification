@@ -35,7 +35,7 @@ For the project we have data from a marketing study with 18.000 current bank cus
 
 
 
-### Workflow
+## Workflow
 
 
 1. **Exploring the data in SQL**
@@ -55,7 +55,7 @@ For the project we have data from a marketing study with 18.000 current bank cus
     - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
 
 
-### Findings / Results 
+## Findings / Results 
 Note: For futher details, please refer to the related files
 
 
