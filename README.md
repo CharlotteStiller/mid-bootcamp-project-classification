@@ -60,10 +60,9 @@ Meaning of the columns: [Link](https://github.com/Ironhack-Data-0621-Remote/mid-
 ### Findings / Results 
 
 2. **Which model works for the dataset**
-    - KNN works for the dataset, but 
-    - Logistic 
-    - Change the questions which have no relationship to the target variable "offer accepted" (5.2.) 
-    - Build more bins (house hold size 5-9) for the questions
+- Logistic Regression with changed class weights fits best for this dataset. Highest Yes recall: 0.69.  
+- Next step to evaluate this model: Cut the variables which do not improve the prediction and improve the weight/balance
+- For the next marketing study I would recommend to change the questions which have no relationship to the target variable (Like shown in point 5.2.) and to build bins (For example house hold size 5-9) 
 
 
 ### Libaries 
