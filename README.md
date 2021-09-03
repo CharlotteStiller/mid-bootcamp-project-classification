@@ -3,7 +3,9 @@ by Charlotte Stiller
 
 ![Hier sollte ein Bild zu sehen sein](https://st2.depositphotos.com/2704315/7774/v/600/depositphotos_77740328-stock-illustration-hand-holding-credit-card-vector.jpg)
 
+The objective of this project was to is to build a model that will provide insight into why some bank customers accept credit card offers, as well as answer additional questions by top management related to the matter.
 
+In ordert o to this, I used agile project planning in Github and made use of SQL, Python and Tableau. 
 
 ## About the project
 
