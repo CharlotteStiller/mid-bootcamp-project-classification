@@ -72,7 +72,7 @@ Note: For futher details, please refer to the related files
 
 3. **Analyse and vizualize the data in Tableau** 
 - There is a huge jump in average balance from Q1 to Q2 for households with size 8.
-- The jump is caused by the fact that only one out of 18.000 customers has a household size of 8 and this particular person has an unusually high balance in this quarter. 
+- The jump is caused by the fact that only one out of 18.000 customers has a household size of 8 and this particular person has an unusually high balance.
 
 ## Libaries 
 - helper_classification 
