@@ -40,7 +40,7 @@ For the project we have data from a marketing study with 18.000 current bank cus
 
 1. **Exploring the data in SQL**
     - Files: Solutions_SQL- Classification.ipynb / Questions_SQL - Classification.md /
-    - Write queries to extract demographics and other characteristics of its customers
+    - Write queries to extract demographics and other characteristics of bank customers
 
   
 2.  **Logistic regression in Python** 
@@ -51,11 +51,12 @@ For the project we have data from a marketing study with 18.000 current bank cus
     - Overview - model results
 
   
-3. **Analyse and vizualize the data in Tableau** 
+3. **Analyse and visualize the data in Tableau** 
     - Files: Solutions_Tableau- Classification.ipynb / Tableau.twb / Questions_Tableau- Classification.md
+    - Extract demographics and other characteristics of bank customers and visualize them 
 
 
-## Findings / Results 
+## Conclusions
 Note: For futher details, please refer to the related files
 
 
@@ -70,7 +71,6 @@ Note: For futher details, please refer to the related files
 
 
 3. **Analyse and vizualize the data in Tableau** 
-analyze certain characteristics / the differences between the people who accepted the offer vs people who did not accept the offer. Plot average Q1-Q4 balance vs Offer Accepted. Provide the values of averages as labels. Consider a similar analysis for Household Size vs average balances for each quarter. You would observe a huge jump in average balance from Q1 to Q2 for households with size 8. - Try and explain that jump. Hint: Check the number of records we have for such customers. Do you see any anomaly.
 - There is a huge jump in average balance from Q1 to Q2 for households with size 8.
 - The explaination of the jump is begründet in dem verhalt, dass nur ein Kunde aus 18.000 dieses Merkmal aufweist und somit der Durchschnitt aus einem Einzelfall gebildet wird. 
 
