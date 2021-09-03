@@ -15,6 +15,8 @@ For the project we have data from a marketing study with 18.000 current bank cus
 Objective
 The goal of the binary classification project is to analyse the characteristics of the bank customers and to train a model to predict if a bank customer accept or reject a credit card offer.
 
+## Dataset 
+For the project we have data from a marketing study with 18.000 current bank customers with the following columns:  
 
 |               Column |                                                                          Information  | Type     |
 |---------------------:|--------------------------------------------------------------------------------------:|---------:|
@@ -37,52 +39,32 @@ Meaning of the columns: [Link](https://github.com/Ironhack-Data-0621-Remote/mid-
 
 
 
-### Workflow of your project?
+### Workflow
 
 
-1. **Apply agile Project Management to deliver results**
-    - Delivery: Tab Projects 
-    - Use a Kanban Board to self-manage my project
-    - Create cards to manage my progress during the project 
-
-2. **Get the data to SQL Database**
+1. **Exploring the data in SQL**
     - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
-    - Connect the SQL database to Python and pull the datafram in Python
-    - Write queries to extract the information I need
+    - Write queries to extract demographics and other characteristics of its customers
 
   
-3.  **Perform Exploratory Data Analysis** 
+2.  **Perform exploratory data analysis and fit the model in Python** 
+    - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
     - Explore the data 
     - Fit the model
-    - Check accuracy of the model (exploring *Variance vs. Bias* tradeoff)
-    - Iterate on the model to get more optimized results.
+
   
-4. **Present a professional project** 
-    - Produce documentation to make the project accessible
-    - Build engaging presentations
-    - Include storytelling to your presentation!
+3. **Analyse and vizualize in Tableau** 
+    - Files: Questions_SQL - Classification.md / Solutions SQL- Classification.ipynb
+
 
 ### Findings / Results 
 
-1. **Which model works for the dataset**
+2. **Which model works for the dataset**
     - KNN works for the dataset, but 
     - Logistic 
-2. **Recommandation for next marketing study**
     - Change the questions which have no relationship to the target variable "offer accepted" (5.2.) 
     - Build more bins (house hold size 5-9) for the questions
 
-### Project | Moduls I used 
-
-### Dataset(s) 
-
-
-### For code
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Libaries 
 from helper_v1 import *
