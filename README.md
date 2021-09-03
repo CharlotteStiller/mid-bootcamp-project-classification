@@ -1,6 +1,4 @@
 # Classification project
-by Charlotte Stiller
-
 
 The objective of this project was to is to build a model that will provide insight into why some bank customers accept credit card offers, as well as answer additional questions by top management related to the matter.
 
